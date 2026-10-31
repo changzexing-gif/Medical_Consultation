@@ -1,0 +1,7 @@
+[
+  {"query": "普通感冒应该怎么治疗", "expected_source_keyword": "普通感冒", "expected_answer_keywords": ["对症", "休息"]},
+  {"query": "胸痛伴大汗需要怎么处理", "expected_source_keyword": "胸痛", "expected_answer_keywords": ["120", "急诊"]},
+  {"query": "青霉素过敏能吃阿莫西林吗", "expected_source_keyword": "药物过敏", "expected_answer_keywords": ["禁用", "青霉素"]},
+  {"query": "儿童发热如何使用退热药", "expected_source_keyword": "儿童发热", "expected_answer_keywords": ["体重", "剂量"]},
+  {"query": "头痛发热颈部僵硬危险吗", "expected_source_keyword": "头痛", "expected_answer_keywords": ["脑膜炎", "急诊"]}
+]
